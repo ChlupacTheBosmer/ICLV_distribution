@@ -10,6 +10,8 @@ This is a distribution version of ICLV - Insect Communities Label Verifier. The 
 
 3) Unarchive the "test frames.zip" for a series of test frames and accompanying label files.
 
+![obrazek](https://github.com/ChlupacTheBosmer/ICLV_distribution/assets/29023670/ae49087e-5bb2-4744-8a6a-73db25f56d57)
+
 ## Controls
 
 A - Mark image as "wrong"
