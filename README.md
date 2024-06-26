@@ -14,7 +14,10 @@ This is a distribution version of ICLV - Insect Communities Label Verifier. The 
 
 ## Controls
 
-![image](https://github.com/ChlupacTheBosmer/ICLV_distribution/assets/29023670/e1446252-8ad9-4e86-bd94-2aa14e18285d)
+![insect-communities-label-verifier---keyboard-controls-layout](https://github.com/ChlupacTheBosmer/ICLV_distribution/assets/29023670/a3872a41-ba86-424d-9001-90ad10ca57b9)
+
+
+
 
 A - Mark the image as "wrong"
 
