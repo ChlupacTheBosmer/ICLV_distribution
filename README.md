@@ -18,12 +18,17 @@ This is a distribution version of ICLV - Insect Communities Label Verifier. The 
 
 
 
+A - Previous frame
 
-A - Mark the image as "wrong"
+D - Next frame
 
-D - Mark the image as "correct"
+
+
+
+
 
 Space - Mark the image as "None" - neutral
+
 
 
 W - Select the previous label
@@ -37,11 +42,11 @@ F or Enter - confirm changes when resizing a label
 R or BackSpace - delete the selected label
 
 Q - Add label
+X - Mark the image as "wrong"
+
+C - Mark the image as "correct"
 
 
-X - Previous frame
-
-C - Next frame
 
 ## Workflow
 
