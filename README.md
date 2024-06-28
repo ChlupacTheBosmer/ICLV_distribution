@@ -14,7 +14,8 @@ This is a distribution version of ICLV - Insect Communities Label Verifier. The 
 
 ## Controls
 
-![insect-communities-label-verifier---keyboard-controls-layout](https://github.com/ChlupacTheBosmer/ICLV_distribution/assets/29023670/a3872a41-ba86-424d-9001-90ad10ca57b9)
+![insect-communities-label-verifier---keyboard-controls-layout(1)](https://github.com/ChlupacTheBosmer/ICLV_distribution/assets/29023670/69139a29-0740-4bd1-b4e2-deb827879728)
+
 
 
 
